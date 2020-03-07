@@ -1,6 +1,4 @@
-//Mohamed Eladl
-//ID:1203261
-//CSCI 260
+
 class Link{
     public int iData;                        
     public Link next;            
